@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Pradeep K
+- 👀 I’m interested in devops & web designing
+- 🌱 I’m currently learning Web designing
+- 📫 Reach me on prasanthamani@gmail.com
